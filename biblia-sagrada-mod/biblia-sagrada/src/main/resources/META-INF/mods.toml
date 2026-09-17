@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="bibliasagrada"
+version="1.0.0"
+displayName="Bíblia Sagrada"
+description='''
+Adiciona um item "Bíblia Sagrada" que repele monstros hostis.
+Enquanto o jogador segura o item, uma aura sagrada empurra monstros
+próximos. Ao usar (clique direito), libera uma rajada de fé que
+empurra e cega todos os monstros num raio maior.
+'''
+authors="Você"
+
+[[dependencies.bibliasagrada]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.bibliasagrada]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

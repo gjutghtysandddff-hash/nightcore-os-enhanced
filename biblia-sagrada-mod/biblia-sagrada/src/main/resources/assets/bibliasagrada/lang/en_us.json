@@ -1,0 +1,11 @@
+{
+  "item.bibliasagrada.biblia_sagrada": "Holy Bible",
+  "item.bibliasagrada.biblia_sagrada.tooltip1": "Hold to keep monsters at bay",
+  "item.bibliasagrada.biblia_sagrada.tooltip2": "Right click: burst of faith",
+
+  "item.bibliasagrada.espada_miguel": "Sword of Michael",
+  "item.bibliasagrada.espada_miguel.tooltip1": "Hit monsters: they are dragged to Hell",
+  "item.bibliasagrada.espada_miguel.tooltip2": "Right click: summons Jesus to fight by your side",
+
+  "entity.bibliasagrada.jesus": "Jesus"
+}

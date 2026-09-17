@@ -1,0 +1,11 @@
+{
+  "item.bibliasagrada.biblia_sagrada": "Bíblia Sagrada",
+  "item.bibliasagrada.biblia_sagrada.tooltip1": "Segure para manter monstros à distância",
+  "item.bibliasagrada.biblia_sagrada.tooltip2": "Clique direito: rajada de fé",
+
+  "item.bibliasagrada.espada_miguel": "Espada de Miguel",
+  "item.bibliasagrada.espada_miguel.tooltip1": "Acerta monstros: eles são arrastados para o Inferno",
+  "item.bibliasagrada.espada_miguel.tooltip2": "Clique direito: invoca Jesus para lutar ao seu lado",
+
+  "entity.bibliasagrada.jesus": "Jesus"
+}
